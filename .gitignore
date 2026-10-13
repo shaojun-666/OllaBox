@@ -1,0 +1,12 @@
+# ---- 本地运行时数据，绝不能提交 ----
+# 浏览器专用配置目录：含会话记录(localStorage)、知识库(IndexedDB)、cookies
+browser-profile/
+
+# 本地私有配置（含个人绝对路径）
+config.bat
+
+# 杂项
+*.log
+*.tmp
+Thumbs.db
+desktop.ini
